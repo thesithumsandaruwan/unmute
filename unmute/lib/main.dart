@@ -103,7 +103,7 @@ class _SpeechAssistantPageState extends State<SpeechAssistantPage> {
             ),
             TextField(
               controller: _newCardIconController,
-              decoration: const InputDecoration(labelText: 'Emoji Icon'),
+              decoration: const InputDecoration(labelText: 'Emoji'),
             ),
           ],
         ),
